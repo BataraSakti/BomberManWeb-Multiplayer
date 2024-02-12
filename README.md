@@ -192,7 +192,7 @@ The modules installed to run this code are the following:
 <lr>
 This is the library i used to code the game. I picked Phaser 3.23.0 (the latest realease). I picked this library since is the most (i believe) complete js library to develop web-games. It makes easier to check collisions/overlaps and to run animations when elements are moving. You can use spritesheets for the animations. I personally used some sprites i got from Spiters Resource (link in the references), but you can use your own sprites, even gif files.
   
-If yuo want to change some game-logic using phaser, just edit game.js (though keep in mind that some phaser code is too in index.js because they are bound to events emit by the server).
+If you want to change some game-logic using phaser, just edit game.js (though keep in mind that some phaser code is too in index.js because they are bound to events emit by the server).
 
 There are two main methods in game.js:
 <ul>
